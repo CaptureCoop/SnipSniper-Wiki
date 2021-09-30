@@ -1,0 +1,21 @@
+[
+    "config/general/bordersize.json",
+    "config/general/copyimage.json",
+    "config/general/hotkey.json",
+    "config/general/icon.json",
+    "config/general/imagefolder.json",
+    "config/general/openeditor.json",
+    "config/general/savefoldermodifier.json",
+    "config/general/saveimage.json",
+    "config/general/snapdelay.json",
+    "config/general/spyglasszoom.json",
+    "config/general/title.json",
+    "config/general/usespyglass.json",
+
+    "editor/stamps/circle.json",
+    "editor/stamps/counter.json",
+    "editor/stamps/cube.json",
+    "editor/stamps/rectangle.json",
+    "editor/stamps/simplebrush.json",
+    "editor/stamps/textstamp.json"
+]
