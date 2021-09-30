@@ -12,6 +12,8 @@
     "config/general/title.json",
     "config/general/usespyglass.json",
 
+    "config/editor/hsv.json",
+
     "editor/stamps/circle.json",
     "editor/stamps/counter.json",
     "editor/stamps/cube.json",
